@@ -1,0 +1,31 @@
+{
+  "name": "3dcitydb-web-map",
+  "version": "1.0.0",
+  "description": "3DCityDB-Web-Map-Client\r ==================================",
+  "main": "server.js",
+  "directories": {
+    "example": "examples"
+  },
+  "dependencies": {
+    "compression": "^1.0.8",
+    "jsdoc": "^3.3.0-alpha9",
+    "express": "^4.4.4",
+    "yargs": "^1.2.6",
+    "request": "^2.36.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tzuriv/3dcitydb-web-map.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tzuriv/3dcitydb-web-map/issues"
+  },
+  "homepage": "https://github.com/tzuriv/3dcitydb-web-map#readme"
+}
